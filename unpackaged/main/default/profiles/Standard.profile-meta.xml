@@ -503,6 +503,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Case.Conflict_Field_2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Case.AssetId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -514,11 +519,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Case.Conflict_Field_1__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Case.Conflict_Field_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
