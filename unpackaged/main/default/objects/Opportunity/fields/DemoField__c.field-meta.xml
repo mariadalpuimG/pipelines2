@@ -3,7 +3,7 @@
     <fullName>DemoField__c</fullName>
     <externalId>false</externalId>
     <label>DemoField</label>
-    <length>200</length>
+    <length>100</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <trackTrending>false</trackTrending>
