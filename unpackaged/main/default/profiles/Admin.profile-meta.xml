@@ -48,7 +48,17 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Demo_Details__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Demo_completed__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -154,6 +164,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Site</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.TestAlex__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1754,6 +1769,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.DeliveryInstallationStatus__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.DemoConflict__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
