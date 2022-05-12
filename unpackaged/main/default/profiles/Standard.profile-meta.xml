@@ -523,7 +523,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Case.Conflict_Field_2__c</field>
+        <field>Case.Conflict_Field_2b__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
