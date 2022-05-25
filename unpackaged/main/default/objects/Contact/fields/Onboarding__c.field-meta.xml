@@ -3,7 +3,7 @@
     <fullName>Onboarding__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>Onboarding?</label>
+    <label>Onboarding</label>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Checkbox</type>
 </CustomField>
